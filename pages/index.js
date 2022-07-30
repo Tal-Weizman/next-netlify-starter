@@ -25,7 +25,7 @@ export default function Home() {
       <header className="flex flex-col items-center justify-center p-6 md:p-12">
         <img className="" src={hashlipsLogo} />
         <br />
-        <p >Let The Minting Begin </p>
+        <p >Let The Minting Begin 111222 </p>
 
         <br />
         <p>{contractMetadata?.description}</p>
